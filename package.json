@@ -1,0 +1,9 @@
+{
+  "name": "renovate-unshallow-test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "is-number": "6.0.0",
+    "lodash": "4.17.0"
+  }
+}
